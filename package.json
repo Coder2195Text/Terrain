@@ -1,0 +1,16 @@
+{
+  "name": "Terrain-GEN",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^13.0.2",
+    "simplex-noise": "^3.0.0"
+  }
+}
